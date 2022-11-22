@@ -1,0 +1,11 @@
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_2\Texteingabefelder_ohne_NumUpdown\bin\Debug\Texteingabefelder.exe.config
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_2\Texteingabefelder_ohne_NumUpdown\bin\Debug\Texteingabefelder.exe
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_2\Texteingabefelder_ohne_NumUpdown\bin\Debug\Texteingabefelder.pdb
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_2\Texteingabefelder_ohne_NumUpdown\obj\Debug\Aufgabe_A2-1-1.csproj.AssemblyReference.cache
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_2\Texteingabefelder_ohne_NumUpdown\obj\Debug\Aufgabe_A2-1-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_2\Texteingabefelder_ohne_NumUpdown\obj\Debug\Texteingabefelder.Form1.resources
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_2\Texteingabefelder_ohne_NumUpdown\obj\Debug\Texteingabefelder.Properties.Resources.resources
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_2\Texteingabefelder_ohne_NumUpdown\obj\Debug\Aufgabe_A2-1-1.csproj.GenerateResource.cache
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_2\Texteingabefelder_ohne_NumUpdown\obj\Debug\Aufgabe_A2-1-1.csproj.CoreCompileInputs.cache
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_2\Texteingabefelder_ohne_NumUpdown\obj\Debug\Texteingabefelder.exe
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_2\Texteingabefelder_ohne_NumUpdown\obj\Debug\Texteingabefelder.pdb

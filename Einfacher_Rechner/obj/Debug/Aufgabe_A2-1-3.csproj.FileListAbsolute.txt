@@ -1,0 +1,11 @@
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_2\Einfacher_Rechner\bin\Debug\Aufgabe_A2-1-3.exe.config
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_2\Einfacher_Rechner\bin\Debug\Aufgabe_A2-1-3.exe
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_2\Einfacher_Rechner\bin\Debug\Aufgabe_A2-1-3.pdb
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_2\Einfacher_Rechner\obj\Debug\Aufgabe_A2-1-3.csproj.AssemblyReference.cache
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_2\Einfacher_Rechner\obj\Debug\Aufgabe_A2-1-3.csproj.SuggestedBindingRedirects.cache
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_2\Einfacher_Rechner\obj\Debug\Aufgabe_A2_1_3.Form1.resources
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_2\Einfacher_Rechner\obj\Debug\Aufgabe_A2_1_3.Properties.Resources.resources
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_2\Einfacher_Rechner\obj\Debug\Aufgabe_A2-1-3.csproj.GenerateResource.cache
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_2\Einfacher_Rechner\obj\Debug\Aufgabe_A2-1-3.csproj.CoreCompileInputs.cache
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_2\Einfacher_Rechner\obj\Debug\Aufgabe_A2-1-3.exe
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_2\Einfacher_Rechner\obj\Debug\Aufgabe_A2-1-3.pdb

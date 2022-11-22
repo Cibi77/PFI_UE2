@@ -1,0 +1,11 @@
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_2\Texteingabefelder\bin\Debug\Texteingabefelder.exe.config
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_2\Texteingabefelder\bin\Debug\Texteingabefelder.exe
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_2\Texteingabefelder\bin\Debug\Texteingabefelder.pdb
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_2\Texteingabefelder\obj\Debug\Beispiel Textfelder.csproj.AssemblyReference.cache
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_2\Texteingabefelder\obj\Debug\Beispiel Textfelder.csproj.SuggestedBindingRedirects.cache
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_2\Texteingabefelder\obj\Debug\Texteingabefelder.Form1.resources
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_2\Texteingabefelder\obj\Debug\Texteingabefelder.Properties.Resources.resources
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_2\Texteingabefelder\obj\Debug\Beispiel Textfelder.csproj.GenerateResource.cache
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_2\Texteingabefelder\obj\Debug\Beispiel Textfelder.csproj.CoreCompileInputs.cache
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_2\Texteingabefelder\obj\Debug\Texteingabefelder.exe
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_2\Texteingabefelder\obj\Debug\Texteingabefelder.pdb
