@@ -12,10 +12,8 @@ namespace Aufgabe_A2_1_3
 {
     public partial class Form1 : Form
     {
-        float resultat = 0;
-        int zahl1 = 0;
-        int zahl2 = 0;
-    
+
+
         public Form1()
         {
             InitializeComponent();
@@ -23,11 +21,8 @@ namespace Aufgabe_A2_1_3
 
         private void CmdPlus_Click(object sender, EventArgs e)
         {
-            //TxtResultat.Text = Convert.ToString(Convert.ToInt32(TxtZahl1.Text) + Convert.ToInt32(TxtZahl2.Text));
-            zahl1 = Convert.ToInt32(TxtZahl1.Text);
-            zahl2 = Convert.ToInt32(TxtZahl2.Text);
-            resultat = zahl1 + zahl2;
-            TxtResultat.Text = Convert.ToString(resultat);
+            TxtResultat.Text = Convert.ToString(Convert.ToInt32(TxtZahl1.Text) + Convert.ToInt32(TxtZahl2.Text));
+            
 
         }
 

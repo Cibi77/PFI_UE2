@@ -1,0 +1,11 @@
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_2\Typecasting_Versuch\bin\Debug\Typecasting_Versuch.exe.config
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_2\Typecasting_Versuch\bin\Debug\Typecasting_Versuch.exe
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_2\Typecasting_Versuch\bin\Debug\Typecasting_Versuch.pdb
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_2\Typecasting_Versuch\obj\Debug\Typecasting_Versuch.csproj.AssemblyReference.cache
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_2\Typecasting_Versuch\obj\Debug\Typecasting_Versuch.csproj.SuggestedBindingRedirects.cache
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_2\Typecasting_Versuch\obj\Debug\Typecasting_Versuch.Form1.resources
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_2\Typecasting_Versuch\obj\Debug\Typecasting_Versuch.Properties.Resources.resources
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_2\Typecasting_Versuch\obj\Debug\Typecasting_Versuch.csproj.GenerateResource.cache
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_2\Typecasting_Versuch\obj\Debug\Typecasting_Versuch.csproj.CoreCompileInputs.cache
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_2\Typecasting_Versuch\obj\Debug\Typecasting_Versuch.exe
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_2\Typecasting_Versuch\obj\Debug\Typecasting_Versuch.pdb
