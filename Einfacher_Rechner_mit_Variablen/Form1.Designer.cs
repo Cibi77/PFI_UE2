@@ -1,4 +1,4 @@
-﻿namespace Aufgabe_A2_1_3
+﻿namespace Aufgabe_A2_2_5
 {
     partial class Form1
     {
